@@ -9,6 +9,7 @@ namespace Project2
     public class Board
     {
 
+
         ///***************** BEGIN CONSTANTS AND STATIC VARIABLES ***********************
 
         public const byte EMPTY = 0;
